@@ -3,17 +3,17 @@
 
 
 ## Description:
-Welcome to Enginous, your all-in-one productivity companion! 🚀
+Enginous is your all-in-one solution for productivity and utility needs. With Enginous, you have access to a variety of tools to help you stay organized, focused, and efficient in your daily tasks.
 
-Enginous is your all-in-one solution for productivity and organization. 
+It is your all-in-one solution for productivity and organization. 
 Whether you need to convert units, manage your to-do list, jot down quick notes, stay focused with a Pomodoro timer, or crunch some numbers with a calculator, Enginous has got you covered.
-With Enginous, you can streamline your workflow, stay organized, and make the most out of your time. Say goodbye to scattered tools and hello to a seamless productivity experience.
+With Enginous, you can streamline your workflow, stay organized, and make the most out of your time. 
 
-So dive in, explore all the features, and let Enginous be your go-to tool for maximizing your productivity and achieving your goals.
 
 ## Built With:
 - Java
 - My SQL
+- Netbeans IDE
 
 ## Functions:
 - Converter: Easily convert between different units and measurements with our intuitive converter tool.
@@ -25,5 +25,6 @@ So dive in, explore all the features, and let Enginous be your go-to tool for ma
 - Pomodoro Timer: Boost your productivity and manage your time effectively using the Pomodoro technique with our built-in timer.
 
 - Calculator: Perform quick calculations and solve mathematical problems with our user-friendly calculator.
+
 
 
