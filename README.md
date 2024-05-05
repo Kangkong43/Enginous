@@ -16,7 +16,7 @@ So dive in, explore all the features, and let Enginous be your go-to tool for ma
 - My SQL
 
 ## Functions:
-- Converter: Easily convert between different units, currencies, and measurements with our intuitive converter tool.
+- Converter: Easily convert between different units and measurements with our intuitive converter tool.
 
 - To-Do List: Keep track of your tasks and stay organized with our interactive to-do list feature.
 
